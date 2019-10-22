@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: MyHomePage(title: 'Hast du da mal eine Idee?! Patricks erste Flutter App'),
     );
   }
-  //lolol
+  //lololsdd
 }
 
 class MyHomePage extends StatefulWidget {
